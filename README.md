@@ -23,8 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ivaylokarafeizov&icon=2&color=8)](https://visitcount.itsvg.in)
 
-#### 🏆 Certificates:
+#### 🎓 Certificates:
 
 <a href="https://softuni.bg/certificates/details/131445/8539e087" target="_blank">
-   <img src="https://user-images.githubusercontent.com/106147027/180247870-6a42dde6-d982-47d2-92cc-36e0b8275b46.png" alt="Certificate Logo" width="150" height="150" title="JS Basics Certificate"/> 
-</a> 
+   <img src="https://user-images.githubusercontent.com/106147027/180260179-e5302178-cfa9-44e3-9d03-9f6ed7bda134.png" alt="Certificate Logo" width="300" height="100" title="JS Basics Certificate"/></a> 
