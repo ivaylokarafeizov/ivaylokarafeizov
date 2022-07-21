@@ -25,4 +25,6 @@
 
 #### 🏆 Certificates:
 
-Programming Basics with JavaScript - March 2022 - https://softuni.bg/certificates/details/131445/8539e087
+<a href="https://softuni.bg/certificates/details/131445/8539e087" target="_blank">
+   <img src="https://user-images.githubusercontent.com/106147027/180247870-6a42dde6-d982-47d2-92cc-36e0b8275b46.png" alt="Certificate Logo" width="150" height="150" title="JS Basics Certificate"/> 
+</a> 
