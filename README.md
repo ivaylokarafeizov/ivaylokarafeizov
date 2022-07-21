@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ivaylo Karafeizov!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaylokarafeizov&label=Profile%20views&color=0e75b6&style=flat" alt="ivaylokarafeizov" /> </p>
+# 💫 About Me:
+🤓 I am interested in JavaScript, HTML & CSS<br>🌱 I’m currently learning JavaScript<br>☕ I recently started learning Java Basics<br>📫 How to reach me qwerty36758@gmail.com
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivaylokarafeizov" alt="ivaylokarafeizov" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ivaylo.k16) 
 
-- 📫 How to reach me **qwerty36758@gmail.com**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ivaylokarafeizov&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ivaylokarafeizov&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokarafeizov&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ivaylo.k16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivaylo.k16" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ivaylokarafeizov&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaylokarafeizov&show_icons=true&locale=en&layout=compact" alt="ivaylokarafeizov" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaylokarafeizov&show_icons=true&locale=en" alt="ivaylokarafeizov" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivaylokarafeizov&" alt="ivaylokarafeizov" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=ivaylokarafeizov&icon=2&color=8)](https://visitcount.itsvg.in)
