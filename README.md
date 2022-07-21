@@ -22,4 +22,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ivaylokarafeizov&icon=2&color=8)](https://visitcount.itsvg.in)
- 
+
+#### 🏆 Certificates:
+
+Programming Basics with JavaScript - March 2022 - https://softuni.bg/certificates/details/131445/8539e087
