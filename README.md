@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/106147027/180193858-754b3910-117d-4a98-af3a-24f163f516dc.png)
 
 # 💫 About Me:
-🤓 I am interested in JavaScript, HTML & CSS<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me qwerty36758@gmail.com
+🤓 I am interested in JavaScript, HTML and CSS<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me qwerty36758@gmail.com
 
 
 ## 🌐 Socials:
