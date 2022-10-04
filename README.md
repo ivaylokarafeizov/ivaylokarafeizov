@@ -8,9 +8,10 @@
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ## 📊 GitHub Stats:
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ivaylokarafeizov&show_icons=true&include_all_commits=true&theme=gotham" alt="GitHub Stats" /></a>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ivaylokarafeizov&theme=gotham&hide_border=false)<br/>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokarafeizov&layout=compact&theme=gotham" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ivaylokarafeizov&show_icons=true&include_all_commits=true&theme=gotham" /></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ivaylokarafeizov&theme=gotham) 
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokarafeizov&layout=compact&theme=gotham" /></a> 
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ivaylokarafeizov&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
