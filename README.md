@@ -1,4 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/106147027/180193858-754b3910-117d-4a98-af3a-24f163f516dc.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaylokarafeizov&label=Profile%20views&color=0e75b6&style=flat" alt="ivaylokarafeizov" /> </p>
 
 # 💫 About Me:
 🤓 I am interested in JavaScript, HTML and CSS<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me -> qwerty36758@gmail.com
