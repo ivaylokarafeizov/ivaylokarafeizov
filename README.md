@@ -7,10 +7,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ivailo.k16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-karafeizov-53918a249/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19797275)
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ivaylokarafeizov&show_icons=true&include_all_commits=true&theme=gotham)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ivaylokarafeizov&theme=gotham)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokarafeizov&layout=compact&theme=gotham)
+## 📊 GitHub Stats:  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ivaylokarafeizov&show_icons=true&locale=en&theme=gotham&" alt="ivaylokarafeizov" /></p> 
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivaylokarafeizov&theme=gotham&" alt="ivaylokarafeizov" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaylokarafeizov&show_icons=true&locale=en&layout=compact&theme=gotham&" alt="ivaylokarafeizov" /></p> 
 
 
 ## 🏆 GitHub Trophies
