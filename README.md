@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats:  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ivaylokarafeizov&show_icons=true&locale=en&theme=gotham&" alt="ivaylokarafeizov" /></p> 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivaylokarafeizov&theme=gotham&" alt="ivaylokarafeizov" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaylokarafeizov&show_icons=true&locale=en&layout=compact&theme=gotham&" alt="ivaylokarafeizov" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaylokarafeizov&show_icons=true&locale=en&layout=compact&theme=gotham&" alt="ivaylokarafeizov" /></p> 
 
 
 ## 🏆 GitHub Trophies
