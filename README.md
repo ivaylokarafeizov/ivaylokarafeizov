@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/106147027/180193858-754b3910-117d-4a98-af3a-24f163f516dc.png) 
 
 # 💫 About Me:
-🤓 I am interested in JavaScript, React, HTML and CSS, and Front-end in general<br>🌱 I’m currently learning JavaScript<br>📫 How to reach me -> qwerty36758@gmail.com
+🤓 I am interested in JavaScript, React, HTML and CSS, and Front-end in general<br>🌱 I’m currently learning HTML and CSS<br>📫 How to reach me -> qwerty36758@gmail.com
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ivailo.k16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-karafeizov-53918a249/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19797275)
